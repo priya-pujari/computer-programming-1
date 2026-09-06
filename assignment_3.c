@@ -9,5 +9,5 @@ if (i%13==0)
  sum=sum+i;
 }
 }
-printf ("sum of numbers divisible by 13: %d\n",sum)
+printf ("sum of numbers divisible by 13: %d\n",sum);
 }

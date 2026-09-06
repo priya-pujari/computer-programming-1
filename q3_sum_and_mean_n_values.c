@@ -1,11 +1,11 @@
 #include<stdio.h>
 void main()
 {
-int n
+int n;
 float num, sum=0,mean;
 printf ("enter the number of values (n): ");
 scanf ("%d",&n);
-printf (enter %d numbers :\n",n);
+printf ("enter %d numbers :\n",n);
 for (int i=0; i<n; i++)
 {
 scanf ("%f",&num);
